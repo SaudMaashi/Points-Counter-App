@@ -12,9 +12,9 @@ class PointsCounterApp extends StatefulWidget {
 }
 
 class _PointsCounterAppState extends State<PointsCounterApp> {
-  int teamAPoints = 0;
+  int teamAPoints = 1;
 
-  int teamBPoints = 0;
+  int teamBPoints = 1;
 
   @override
   Widget build(BuildContext context) {
