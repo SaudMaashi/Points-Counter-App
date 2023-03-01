@@ -1,1 +1,1 @@
-This is a practice application that I developed with my instructor in one of my Flutter Courses
+This is a practice application that I developed with my instructor in one of my Flutter Courses.
