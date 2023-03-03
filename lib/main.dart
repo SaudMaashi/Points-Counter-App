@@ -217,3 +217,26 @@ class _PointsCounterAppState extends State<PointsCounterApp> {
     );
   }
 }
+
+
+/* class MySuperClass {
+    public void perform() {
+        System.out.println("SuperClass Perform Method");
+    }
+}
+
+class MySubClass extends MySuperClass {
+    public void perfom() {
+        System.out.println("SubClass Perform Method");
+    }
+    
+    public void run() {
+        System.out.println("SubClass Run Method");
+    }
+}
+
+public class Main {
+    MySuperClass obj= new MySubClass();
+    obj.perform();
+    obj.run();
+} */
